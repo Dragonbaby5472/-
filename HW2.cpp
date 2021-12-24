@@ -9,10 +9,10 @@ int main() {
 		if (inputNumber == 0) {
 			cout << "------------------------------------------\n";
 			cout << "|  Name:       Leo Tsai                  |\n";
-			cout << "|  Student id: E24106288                 |\n";
+			cout << "|  Student id: E12345678                 |\n";
 			cout << "|  Cellphone:  0912345678                |\n";
 			cout << "|  Hobby:      Writing HW                |\n";
-			cout << "|  Email:      E24106288@gs.ncku.edu.tw  |\n";
+			cout << "|  Email:      E12345678@gs.ncku.edu.tw  |\n";
 			cout << "------------------------------------------\n";
 		}
 		else if (inputNumber == 1 || inputNumber == 2 || inputNumber == 3 || 
