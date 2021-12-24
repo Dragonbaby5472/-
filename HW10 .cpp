@@ -61,9 +61,9 @@ int main() {
 		system("pause");
 		exit(EXIT_FAILURE);
 	}
-	ofstream file_out("result_E24106288.txt");
+	ofstream file_out("result_E12345678.txt");
 	if (!file_out) {
-		cerr << "file \"result_E24106288.txt\" could not open." << endl;
+		cerr << "file \"result_E12345678.txt\" could not open." << endl;
 		system("pause");
 		exit(EXIT_FAILURE);
 	}
